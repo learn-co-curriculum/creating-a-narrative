@@ -1,20 +1,15 @@
-# Structuring Your Readme
 
-“It is not a recitation of facts, but the building of an argument.”
-            -Molly Worthen
+# It’s All About the Story
 
-## It’s All About the Story
+Now that you have all your overview and objectives, you’re ready to start presenting new material right? Well not quite yet. Readmes aren’t just a compilation of facts, but instead depend on **the overarching narrative within which your facts are contained**. In other words, you're not writing  "glorified documentation," but instead telling a story.
 
-Now that you have all your objectives, you’re ready to start presenting new material right? Well not quite yet. Readmes aren’t just a compilation of facts, but instead depend on **the overarching narrative within which your facts are contained**. Again, never write "glorified documentation." 
-
-Instead, think of your Readme as a story that follows a narrative arc of beginning, middle, and end. In other words, set the stage, show how the conflict emerges, work through the conflict, and end with presenting the new reality and tying up any loose ends.
+Your story should follow a narrative arc of beginning, middle, and end. Set the stage, show how the conflict emerges, work through this conflict, and end with presenting the new reality and tying up any loose ends.
 
 ![Image](http://farm3.static.flickr.com/2388/2387371826_509e4d0f06_o.png)
 
+For now in this Readme, let's take a closer look at setting the stage. 
 
-We'll take a closer look at each of these narrative sections. For now in this Readme, we'll start with the beginning and setting the stage. 
-
-When you’re setting the stage, begin with something that the student already knows. This can be a concept you can assume they know from previous lessons. Or it can be a general idea that you can also assume they know from their day-to-day lives. The ultimate goal is to hook your audience and the best way to do that is with a known idea.  Below are two examples:
+Begin with something that the student already knows. This can be a concept they know from previous lessons, or it can be a general idea that you can assume they know from their day-to-day lives. The goal is to draw your audience in and the best way to do that is by first presenting them with something familiar.  Below are two examples:
 
 1) *How does Twitter have different pages for each of its 300 million users? How can AirBnB support over 40 million guests with over 1.5 million listings worldwide? All of this is possible because of web applications.*
 
@@ -40,7 +35,7 @@ end
 
 *Good news, that's exactly what method arguments (also called parameters) are for.*
 
-### Why do these introductory sections work? 
+## Why do these introductory sections work? 
 
 They don't start with "big words." By "big words," we mean technical terms that are introduced without any context as to why they're there. The first example could have started with a definition from Wikipedia- "Web applications are client-server software application in which the client (or user interface) runs in a web browser." Beyond just being overly technical, this is also pretty dry. 
 
@@ -48,8 +43,8 @@ Strong openings keep us interested to read more by presenting a problem. In the 
 
 Wherever possible, openings should also go through the pain of solving a problem using just the concepts that we know. Show the students this pain by walking them through the code they'll need to create as the second example did. 
 
-And lastly strong openings as well as the rest of your lesson should always be friendly and open. Use the second person ("you") and third person plural ("we"). And write your lesson as if you were having a conversation with your student. That again means avoiding "big words" without any context of why they're being used, walking them through the problem before you present the answer, and keeping the language. Don't be afraid to be silly, make jokes, and let your personality shine through. When you show your excitement for the topic you're writing about, that'll get your students excited about learning it. 
+And lastly strong openings as well as the rest of your lesson should always be friendly and open. Use the second person ("you") and third person plural ("we"). Write your lesson as if you were having a conversation with a student. Don't be afraid to be silly, make jokes, and let your personality shine through. When you show your excitement for the topic you're writing about, that'll get your students excited about learning it. 
 
-Coming up, we'll look at examples of openings that aren't very strong and will re-work them to be better. 
+Coming up, we'll look at examples of openings that aren't very strong and we'll re-work them to be better. 
 
 <a href='https://learn.co/lessons/creating-a-narrative' data-visibility='hidden'>View this lesson on Learn.co</a>
