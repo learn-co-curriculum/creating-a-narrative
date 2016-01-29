@@ -47,4 +47,5 @@ And lastly strong openings as well as the rest of your lesson should always be f
 
 Coming up, we'll look at examples of openings that aren't very strong and we'll re-work them to be better. 
 
-View <a href='https://learn.co/lessons/creating-a-narrative' data-visibility='hidden'>Creating a narrativeo</a> on Learn.co and start learning to code for free.
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/creating-a-narrative' title='Creating a narrative'>Creating a narrative</a> on Learn.co and start learning to code for free.</p>
