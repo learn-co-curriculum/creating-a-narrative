@@ -1,7 +1,7 @@
 
 # It’s All About the Story
 
-Now that you have all your overview and objectives, you’re ready to start presenting new material right? Well not quite yet. Readmes aren’t just a compilation of facts, but instead depend on **the overarching narrative within which your facts are contained**. In other words, you're not writing  "glorified documentation," but instead telling a story.
+Now that you have your overview written and your objectives clear, you’re ready to start presenting new material right? Well not quite yet. Readmes aren’t just a compilation of facts, but instead depend on **the overarching narrative within which your facts are contained**. In other words, you're not writing  "glorified documentation," but instead telling a story.
 
 Your story should follow a narrative arc of beginning, middle, and end. Set the stage, show how the conflict emerges, work through this conflict, and end with presenting the new reality and tying up any loose ends.
 
@@ -11,11 +11,11 @@ For now in this Readme, let's take a closer look at writing strong openings.
 
 Your opening should **always begin with something that the student already knows**. This can be a concept they know from previous lessons, or it can be a general idea that you can assume they know from their day-to-day lives. The goal is to draw your audience in and the best way to do that is by first presenting them with something familiar. By doin  Below are two examples:
 
-1) *How does Twitter have different pages for each of its 300 million users? How can AirBnB support over 40 million guests with over 1.5 million listings worldwide? All of this is possible because of web applications.*
+1) **How does Twitter have different pages for each of its 300 million users? How can AirBnB support over 40 million guests with over 1.5 million listings worldwide? All of this is possible because of web applications.**
 
 ---
 
-2) *Imagine needing to build a method that greets a person. We could code something like this:*
+2) **Imagine needing to build a method that greets a person. We could code something like this:**
 
 ```ruby
 def greeting
@@ -23,9 +23,9 @@ def greeting
 end
 ```
 
-*This method, when called, will print out to the terminal, the string `"Hi, Ruby programmer!"`.*
+**This method, when called, will print out to the terminal, the string `"Hi, Ruby programmer!"`.**
 
-*As amazing as this method is, it's still pretty literal. It hard-codes, or directly specifies, name of the person we are greeting as `"Ruby programmer"`.* *If we wanted to build a method that can greet anyone, even Python programmers, we'd have to re-implement the majority of the original logic from `greeting`:*
+**As amazing as this method is, it's still pretty literal. It hard-codes, or directly specifies, name of the person we are greeting as `"Ruby programmer"`.* *If we wanted to build a method that can greet anyone, even Python programmers, we'd have to re-implement the majority of the original logic from `greeting`:**
 
 ```ruby
 def greeting_python
@@ -33,9 +33,9 @@ def greeting_python
 end
 ```
 
-*Notice the only things that changed are the method name and the language name `"Python"` in the body of the method. It's as though that information should be specifiable or configurable when you call the method, otherwise we'd have to build every permutation of the method. In other words, we'd have to re-write the method for every single person we want to greet. We want our method to be more dynamic, more abstract, more re-usable. It should maintain the elements that will always be the same, no matter who we greet, and allow us to change, or swap out, the name of the person we are greeting. This is dynamic, as opposed to "hard-coded".*
+**Notice the only things that changed are the method name and the language name `"Python"` in the body of the method. It's as though that information should be specifiable or configurable when you call the method, otherwise we'd have to build every permutation of the method. In other words, we'd have to re-write the method for every single person we want to greet. We want our method to be more dynamic, more abstract, more re-usable. It should maintain the elements that will always be the same, no matter who we greet, and allow us to change, or swap out, the name of the person we are greeting. This is dynamic, as opposed to "hard-coded".**
 
-*Good news, that's exactly what method arguments (also called parameters) are for.*
+**Good news, that's exactly what method arguments (also called parameters) are for.**
 
 ---
 
@@ -74,6 +74,8 @@ In the fourth example, while it may seem like there are a lot of technical words
 
 Wherever possible, openings should also go through the pain of solving a problem using just the concepts that we know. Show the students this pain by walking them through the code they'll need to create as the second example did. 
 
-And lastly strong openings as well as the rest of your lesson should always be friendly and open. Use the second person ("you") and first person plural ("we"). Write your lesson as if you were having a conversation with a student. Don't be afraid to be silly, make jokes, and let your personality shine through. When you show your excitement for the topic you're writing about, that'll get your students excited about learning it. 
+Strong openings present the "Why" of the lesson in a way that students understand. Why is what you're about to read important? More than just being able to hook the reader, strong openings will better prime them to receive and retain all the new information that you're about to present. 
+
+Lastly strong openings as well as the rest of your lesson should always be friendly and open. Use the second person ("you") and first person plural ("we"). Write your lesson as if you were having a conversation with a student. Don't be afraid to be silly, make jokes, and let your personality shine through. When you show your excitement for the topic you're writing about, that'll get your students excited about learning it. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/creating-a-narrative' title='Creating a narrative'>Creating a narrative</a> on Learn.co and start learning to code for free.</p>
