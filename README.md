@@ -9,7 +9,9 @@ Your story should follow a narrative arc of beginning, middle, and end. Set the 
 
 For now in this Readme, let's take a closer look at writing strong openings. 
 
-Your opening should **always begin with something that the student already knows**. This can be a concept they know from previous lessons, or it can be a general idea that you can assume they know from their day-to-day lives. The goal is to draw your audience in and the best way to do that is by first presenting them with something familiar. By doin  Below are two examples:
+Your opening should **always begin with something that the student already knows**. This can be a concept they know from previous lessons, or it can be a general idea that you can assume they know from their day-to-day lives. The goal is to draw your audience in and the best way to do that is by first presenting them with something familiar. Below are four examples of good openings:
+
+---
 
 1) **How does Twitter have different pages for each of its 300 million users? How can AirBnB support over 40 million guests with over 1.5 million listings worldwide? All of this is possible because of web applications.**
 
